@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品链接专利检索与图示对比"
+  short_description: "从产品链接发现专利候选，核对原文并输出供人工判断的图示对照"
+  default_prompt: "使用 $patentlens-product-search 对这个产品链接进行指定法域的专利预筛，展示检索路线、候选原文、图示对比、日期状态和待核实事项，供我人工判断。"
